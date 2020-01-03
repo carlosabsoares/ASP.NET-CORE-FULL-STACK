@@ -15,7 +15,27 @@ namespace ProAgil.API.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<Evento>> Get()
         {
-            return new string[] { "value1", "value2", "value3" };
+            return new Evento()
+            {
+                new Evento()
+                {
+                    EventoId = 1,
+                    Tema = "Angular e .NET Core",
+                    Local = "Belo Horizonte",
+                    Lote = "1º Lote",
+                    QtdPessoas= 250,
+                    DataEvento = DateTime.Now.AddDays(2) .ToString("dd/MM/yyyy")
+                }
+                new Evento()
+                {
+                    EventoId = 2,
+                    Tema = "Angular e suas novidades",
+                    Local = "Curitiba",
+                    Lote = "3º Lote",
+                    QtdPessoas= 350,
+                    DataEvento = DateTime.Now.AddDays(5) .ToString("dd/MM/yyyy")
+                }
+            }
         }
 
         // GET api/values/5
