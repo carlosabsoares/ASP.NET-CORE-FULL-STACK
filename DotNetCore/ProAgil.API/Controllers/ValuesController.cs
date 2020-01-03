@@ -15,7 +15,7 @@ namespace ProAgil.API.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<Evento>> Get()
         {
-            return new Evento()
+            return new Evento[]
             {
                 new Evento()
                 {
@@ -25,7 +25,7 @@ namespace ProAgil.API.Controllers
                     Lote = "1º Lote",
                     QtdPessoas= 250,
                     DataEvento = DateTime.Now.AddDays(2) .ToString("dd/MM/yyyy")
-                }
+                },
                 new Evento()
                 {
                     EventoId = 2,
@@ -35,7 +35,7 @@ namespace ProAgil.API.Controllers
                     QtdPessoas= 350,
                     DataEvento = DateTime.Now.AddDays(5) .ToString("dd/MM/yyyy")
                 }
-            }
+            };
         }
 
         // GET api/values/5

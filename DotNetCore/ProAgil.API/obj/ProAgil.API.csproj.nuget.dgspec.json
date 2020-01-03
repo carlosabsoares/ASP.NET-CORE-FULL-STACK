@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Carlos\\Estudos\\Udemy\\DotNet\\Full_Stack_ASP_NET_Core\\ProAgil.API\\ProAgil.API.csproj": {}
+    "C:\\Carlos\\Estudos\\Udemy\\DotNet\\Full_Stack_ASP_NET_Core\\DotNetCore\\ProAgil.API\\ProAgil.API.csproj": {}
   },
   "projects": {
-    "C:\\Carlos\\Estudos\\Udemy\\DotNet\\Full_Stack_ASP_NET_Core\\ProAgil.API\\ProAgil.API.csproj": {
+    "C:\\Carlos\\Estudos\\Udemy\\DotNet\\Full_Stack_ASP_NET_Core\\DotNetCore\\ProAgil.API\\ProAgil.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Carlos\\Estudos\\Udemy\\DotNet\\Full_Stack_ASP_NET_Core\\ProAgil.API\\ProAgil.API.csproj",
+        "projectUniqueName": "C:\\Carlos\\Estudos\\Udemy\\DotNet\\Full_Stack_ASP_NET_Core\\DotNetCore\\ProAgil.API\\ProAgil.API.csproj",
         "projectName": "ProAgil.API",
-        "projectPath": "C:\\Carlos\\Estudos\\Udemy\\DotNet\\Full_Stack_ASP_NET_Core\\ProAgil.API\\ProAgil.API.csproj",
+        "projectPath": "C:\\Carlos\\Estudos\\Udemy\\DotNet\\Full_Stack_ASP_NET_Core\\DotNetCore\\ProAgil.API\\ProAgil.API.csproj",
         "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-        "outputPath": "C:\\Carlos\\Estudos\\Udemy\\DotNet\\Full_Stack_ASP_NET_Core\\ProAgil.API\\obj\\",
+        "outputPath": "C:\\Carlos\\Estudos\\Udemy\\DotNet\\Full_Stack_ASP_NET_Core\\DotNetCore\\ProAgil.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
