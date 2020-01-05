@@ -34,6 +34,15 @@ namespace ProAgil.API.Controllers
                     Lote = "3º Lote",
                     QtdPessoas= 350,
                     DataEvento = DateTime.Now.AddDays(5) .ToString("dd/MM/yyyy")
+                },
+                new Evento()
+                {
+                    EventoId = 3,
+                    Tema = ".net core",
+                    Local = "Rio de Janeiro",
+                    Lote = "2º Lote",
+                    QtdPessoas= 380,
+                    DataEvento = DateTime.Now.AddDays(5) .ToString("dd/MM/yyyy")
                 }
             };
         }
@@ -60,6 +69,15 @@ namespace ProAgil.API.Controllers
                     Local = "Curitiba",
                     Lote = "3º Lote",
                     QtdPessoas= 350,
+                    DataEvento = DateTime.Now.AddDays(5) .ToString("dd/MM/yyyy")
+                },
+                new Evento()
+                {
+                    EventoId = 3,
+                    Tema = ".net core",
+                    Local = "Rio de Janeiro",
+                    Lote = "2º Lote",
+                    QtdPessoas= 380,
                     DataEvento = DateTime.Now.AddDays(5) .ToString("dd/MM/yyyy")
                 }
             }.FirstOrDefault( x => x.EventoId == id );
