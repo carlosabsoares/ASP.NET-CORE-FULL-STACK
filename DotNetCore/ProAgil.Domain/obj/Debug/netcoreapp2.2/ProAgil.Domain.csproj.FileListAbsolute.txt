@@ -15,3 +15,12 @@ C:\Estudos\Udemy\Full_Stack_WebAPI\ProAgil\ProAgil.Domain\obj\Debug\netcoreapp2.
 C:\Estudos\Udemy\Full_Stack_WebAPI\ProAgil\ProAgil.Domain\obj\Debug\netcoreapp2.2\ProAgil.Domain.AssemblyInfo.cs
 C:\Estudos\Udemy\Full_Stack_WebAPI\ProAgil\ProAgil.Domain\obj\Debug\netcoreapp2.2\ProAgil.Domain.dll
 C:\Estudos\Udemy\Full_Stack_WebAPI\ProAgil\ProAgil.Domain\obj\Debug\netcoreapp2.2\ProAgil.Domain.pdb
+C:\Users\01184780790\source\repos\ASP.NET-CORE-FULL-STACK\DotNetCore\ProAgil.Domain\bin\Debug\netcoreapp2.2\ProAgil.Domain.deps.json
+C:\Users\01184780790\source\repos\ASP.NET-CORE-FULL-STACK\DotNetCore\ProAgil.Domain\bin\Debug\netcoreapp2.2\ProAgil.Domain.dll
+C:\Users\01184780790\source\repos\ASP.NET-CORE-FULL-STACK\DotNetCore\ProAgil.Domain\bin\Debug\netcoreapp2.2\ProAgil.Domain.pdb
+C:\Users\01184780790\source\repos\ASP.NET-CORE-FULL-STACK\DotNetCore\ProAgil.Domain\obj\Debug\netcoreapp2.2\ProAgil.Domain.csprojAssemblyReference.cache
+C:\Users\01184780790\source\repos\ASP.NET-CORE-FULL-STACK\DotNetCore\ProAgil.Domain\obj\Debug\netcoreapp2.2\ProAgil.Domain.csproj.CoreCompileInputs.cache
+C:\Users\01184780790\source\repos\ASP.NET-CORE-FULL-STACK\DotNetCore\ProAgil.Domain\obj\Debug\netcoreapp2.2\ProAgil.Domain.AssemblyInfoInputs.cache
+C:\Users\01184780790\source\repos\ASP.NET-CORE-FULL-STACK\DotNetCore\ProAgil.Domain\obj\Debug\netcoreapp2.2\ProAgil.Domain.AssemblyInfo.cs
+C:\Users\01184780790\source\repos\ASP.NET-CORE-FULL-STACK\DotNetCore\ProAgil.Domain\obj\Debug\netcoreapp2.2\ProAgil.Domain.dll
+C:\Users\01184780790\source\repos\ASP.NET-CORE-FULL-STACK\DotNetCore\ProAgil.Domain\obj\Debug\netcoreapp2.2\ProAgil.Domain.pdb
